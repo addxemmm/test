@@ -2,7 +2,7 @@ http://39.106.27.82:9092/
 
 https://jump.aliyun.addx.top/
 
-https://jump.addx.top/
+http://39.106.27.82:9091/
 
 https://www.baidu.com/
 
